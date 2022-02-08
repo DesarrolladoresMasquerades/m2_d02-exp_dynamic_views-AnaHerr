@@ -1,0 +1,6 @@
+{
+    "name": "Ana", 
+    "hobbies": [{"name": "hiking"}, {"name": "cooking"}, {"name": "yoga"}],
+    "age": 18,
+    "adult": false
+}
